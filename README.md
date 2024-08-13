@@ -74,5 +74,4 @@ This project is free to use for everybody.
 
 **Contributing**
 
-For suggestions or improvements, please create a pull request or open an issue.
-
+Contributions are welcome! For suggestions or improvements, please create a pull request or open an issue.
