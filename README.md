@@ -70,7 +70,9 @@ Successfully connected to Hugging Face and uploaded test_20240813_154530.txt to 
 
 **License**
 
-This project is free to use for everybody.
+This project is provided "as is" without any warranties, express or implied. 
+It is not licensed for any particular use, and the creators disclaim any liability for its use. 
+You are free to use, modify, and distribute the code, but you do so at your own risk.
 
 **Contributing**
 
